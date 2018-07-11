@@ -1,3 +1,6 @@
-# Arch-2018-i3-gaps
+# [i3-gaps] My Arch Linux dotfiles :)
 
-<blockquote class="imgur-embed-pub" lang="en" data-id="a/h1Swkp9"><a href="//imgur.com/h1Swkp9">[i3-gaps][Arch] My second time wit i3-gaps. So excited! </a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+![](2018-07-09-114504_1920x1080_scrot.png)
+![](2018-07-09-114956_1920x1080_scrot.png)
+![](2018-07-09-120021_1920x1080_scrot.png)
+![](2018-07-09-120236_1920x1080_scrot.png)
