@@ -13,7 +13,7 @@ If you want to get desktop look like mine you need to have:
 * Victory Theme - https://github.com/horst3180/vertex-icons
   or
 * MacOs sierra Ct icon pack - https://www.gnome-look.org/p/1210856/
-
+* Rofi [comming_soon]
 
 
 ![](2018-07-09-114504_1920x1080_scrot.png)
