@@ -1,0 +1,22 @@
+* {
+    background-color:      Black;
+    text-color:            White;
+    border-color:          White;
+    font:            "Jura Book 12";
+		border: 0;
+}
+
+element selected {
+    background-color: White;
+		text-color:	Black;
+}
+window {
+
+}
+
+scrollbar {
+background-color: Black;
+handle-width: 1;
+handle-color: White;
+border-color: Black;
+}
